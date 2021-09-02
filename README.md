@@ -1,5 +1,7 @@
-# crowdcoin
+#<a href = "https://crowdcoin-self.vercel.app/"> crowdcoin
 <h3>smart contract for crowdfunding or chores, deployed to Rinkeby</h3>
+
+ click here to try</a>
 
 1. download reposity
 2. run: npm run dev
