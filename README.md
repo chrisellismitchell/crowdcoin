@@ -1,11 +1,11 @@
 # crowdcoin
-<h3>smart contract for crowdfunding or chores</h3>
+<h3>smart contract for crowdfunding or chores, deployed to Rinkeby</h3>
 
 1. download reposity
 2. run: npm run dev
 3. hosted on localhost:3000/
 <br>
-<h3>test:<h3> npm run test
+<h3>test:</h3> npm run test
 <br>
   <h3> to deploy contract</h3>
   <ol>
