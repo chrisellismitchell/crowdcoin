@@ -1,6 +1,9 @@
 language: node_js 
 node_js:
   - 12 # Level of Node.js to use
+cache:
+  directories:
+    - $HOME/.npm
 script:
   - npm run build
   - npm run export
